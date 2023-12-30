@@ -1,0 +1,68 @@
+[msa] First time signing in. Please authenticate now:
+To sign in, use a web browser to open the page https://www.microsoft.com/link and enter the code 3LPMLT2F to authenticate.
+[msa] Signed in with Microsoft
+{
+  token: 'eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQzNTk5MTM4MDU2NSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiMDY3NWFiNDktOTRmMi00ZjgwLWEzOGEtODAxMTUwMTM2MjIxIiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm1zYW1pZ3JhdGlvbl9zdGFnZTQiLCJvcmRlcnNfMjAyMiJdLCJwcm9maWxlcyI6eyJtYyI6IjhhYjA3YmNhLWIyYTAtNDVmOS04ZTIxLTNiNmUxZDUyNjU3MiJ9LCJwbGF0Zm9ybSI6IlVOS05PV04iLCJ5dWlkIjoiMDgwYjRjNGQ3NDdkODIyY2E0MTg5MjQ4MGM2Y2ZmZjYiLCJuYmYiOjE2OTc3OTE5NTQsImV4cCI6MTY5Nzg3ODM1NCwiaWF0IjoxNjk3NzkxOTU0fQ.jSG5o40xNTIBfeUUtg5qtsnmRy_VmkNCZUxbl-cIUmY',
+  entitlements: {
+    items: [ [Object], [Object], [Object], [Object] ],
+    signature: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEiLCJ4NXQiOiJJVXRXd1l0clNfSXpJS0piaTZzNGtWaF9FNXMifQ.ewogICJlbnRpdGxlbWVudHMiIDogWyB7CiAgICAibmFtZSIgOiAiZ2FtZV9taW5lY3JhZnQiCiAgfSwgewogICAgIm5hbWUiIDogImdhbWVfbWluZWNyYWZ0X2JlZHJvY2siCiAgfSwgewogICAgIm5hbWUiIDogInByb2R1Y3RfbWluZWNyYWZ0IgogIH0sIHsKICAgICJuYW1lIiA6ICJwcm9kdWN0X21pbmVjcmFmdF9iZWRyb2NrIgogIH0gXSwKICAic2lnbmVySWQiIDogIjI1MzU0MzU5OTEzODA1NjUiLAogICJuYmYiIDogMTY5Nzc5MTc3NCwKICAiZXhwIiA6IDE2OTc5NjQ3NTQsCiAgImlhdCIgOiAxNjk3NzkxOTU0LAogICJwbGF0Zm9ybSIgOiAiVU5LTk9XTiIKfQ.PIc0LyobjKNB6sQL8KxVaeh-L1UmhcGaVbrCmIE4SRH-ogE9dYiDSU9kbrdXa6CvvQ8di0cGNk0Dg2r9Jl79jtqAZxlSuR3yCthnHcHXub1ch-zO2DZeVq0yNHBZLQpbj9GgfOfcFKDyj-dLNKgsvdzgjFyVH6vwEEBvKoybNlSRncmjJmSHfPi9aRswziWh0bh4hr63VkmTcBA2hcKAfk9vhccnJ3UhkB_huvxi8zJjoO0bx-JygG78RfL4QgnmeABN1EZ5M8EIr3uAC4069HfMr5_BhjAqN1Bma-ZH4pVlaSpxX2qtGFfDb2IhfdsugJ5VyYe-vyXYpGQw4mhb5OH7vUaKVdPLptnLA31iHkQhU8t91Nnn562wI2G2o4Pj7HiaTOKSsGggpcR_ejZSGR9V-pCzBxC6LyNDxx9nvGipUBnmjK6_7uA08EJS0Va2uv5M0e6Hnsgk1E4YDk1Z5NSawba8ybcL_b5og0uE1QBIlO8SCYga3usuPogmIblfSeFYi9ghFUvE3I7VZvXOfHvdgryLCSyrEjw24qv9lkd5L2HGzxqhf1UZNSbUrhEr0ITbk3zuFxljpPBijf1DXwTOO1YqjFZDQZ1-MsSO5ncSHcbBbv9pAk66CRK8JpNimLYpqnzAKGhYysLJpaQ01II_n_UiOauBe4JPiw-wPII',
+    keyId: '1'
+  },
+  profile: {
+    id: '8ab07bcab2a045f98e213b6e1d526572',
+    name: 'Eggstravagansa',
+    skins: [ [Object] ],
+    capes: [],
+    profileActions: {}
+  },
+  certificates: {
+    profileKeys: {
+      publicPEM: '-----BEGIN RSA PUBLIC KEY-----\n' +
+        'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8Ri8/sV5FwpjJbKs04gYzn5vBdGnNzuS\n' +
+        'ipm0LWorqrj5dqIxf5dlK/b5QsorTVhTpL61JrIQgN810pg9ys7DlCT8lertxPkj1FAnUekI/53A\n' +
+        '++BpToYZcnqTm/zqIzMC45eyJMk4P4Dkt9TrNM85f8+QkxrzxrbyYxlVvm0y7rHILXHYtpo9oJ6Q\n' +
+        'jsxdF18IEFENr2tdjVuXWIRRGXrKSaqrafBE2cvnv+irqFA2WnBYLFMbMN5BD7Jjfm7om186qDBZ\n' +
+        'U/qLuO4IHBAy1c1q7Y7glcjPhl7kkSYh87ncySMP/m5FZRoY7uKy9QDW5d968s/aMpYJbbG94Opg\n' +
+        'l8bHoQIDAQAB\n' +
+        '-----END RSA PUBLIC KEY-----\n',
+      privatePEM: '-----BEGIN RSA PRIVATE KEY-----\n' +
+        'MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDxGLz+xXkXCmMlsqzTiBjOfm8F\n' +
+        '0ac3O5KKmbQtaiuquPl2ojF/l2Ur9vlCyitNWFOkvrUmshCA3zXSmD3KzsOUJPyV6u3E+SPUUCdR\n' +
+        '6Qj/ncD74GlOhhlyepOb/OojMwLjl7IkyTg/gOS31Os0zzl/z5CTGvPGtvJjGVW+bTLuscgtcdi2\n' +
+        'mj2gnpCOzF0XXwgQUQ2va12NW5dYhFEZespJqqtp8ETZy+e/6KuoUDZacFgsUxsw3kEPsmN+buib\n' +
+        'XzqoMFlT+ou47ggcEDLVzWrtjuCVyM+GXuSRJiHzudzJIw/+bkVlGhju4rL1ANbl33ryz9oylglt\n' +
+        'sb3g6mCXxsehAgMBAAECggEASH9y3X2OEwKZm81lsNoc84MLaYmIqdAtGaZsireBV/31bdoJ3l8t\n' +
+        'GhJTE+VtLf3gcQqzuGYVFluIeMI02pZgM10H4yDYzMFKJ97OZBAaF5tdW6A4qlcisczwNBjSYzFE\n' +
+        'riGAfRVQ56+flzPcYm3p0WgeBk41fcyniGsm4HM/vIx9t8xQZ8gbdVKW2bl0TbmklkTEGbqytZaD\n' +
+        '6aRKeD7DTUcHpN04kViG8HqOKriksCUr+gtfPLtQAh3hF6PoTJ/bCCFv8UdwG2fwE8ADqNoJajOL\n' +
+        'wXahZx9iCmgP95WJKHcl6vZ5KbFAKmUHihG7QrXgECmpOco59OCISc/cmlSfrQKBgQDxltbLEGO8\n' +
+        'jXX83XS5RdWdCgZUZXT4KskpA7za/O4uY3fGRdT6xZYkPWeEneSHFXB198OYOYd1tG0bEucwVece\n' +
+        'GFFHzyhqTtfcN84Ft4qutICHs1Xn0NHwEBivZHqctUz0ZivdbVvb1qyOytmOh+8xnDcF7NASEsdc\n' +
+        'Wv5TVxuRvwKBgQD/emCYI0A+an3hzKTd70+vYXdd3qOhC7qXK7ArFeUrd7Ltt00xSTw3WCL9iHfT\n' +
+        'RLcwMkG8Je2aK23FXffhAIcRYKU/ZCvWKd/7i7ciukqNTH10MKiR31fckNJI53vT1Eimvtk40uJd\n' +
+        '1bLWCiehDxyWHEl+CXq6ywCoPObPsGU+nwKBgF2qTrLCMvkKm4EjVzrx0WUmWtfj0hrZc858DX+V\n' +
+        '6r5/gBOWRYHIk3KPgBARq2WYMVb7bZEaVOOUxWxmws2hsI6hfPnrXk8BLH3MAQuEYrdjciWqqRbM\n' +
+        'hmidxQRTX5pcTG7BIiaiXKf6LkLacMjq+Rjx6P9aFj27nCG5gbtMHXs/AoGALuRKaIJH32zycAh8\n' +
+        '1lN/f8RXAX7E7+FUPT0Cl9Xr+198Ew/K9lnn2Iyv13M98yQwr4L598vKYbrI6ioGPmE3aWQg0JLV\n' +
+        'TPjgqK4LTi99UZQRjssDlcq1uMFIJ6N9YfMb5qcu/bQPYoO/0HOKtJAuggrtHlolEbYDB94tyz8o\n' +
+        'RicCgYAlNdiSpfeFRAMrsWpLiadHp4eKV6URyQ2XUP9HLo+kh8t7pkQ6U+/o5IlB4oYHeZa6ehE0\n' +
+        'dQhQ1B0ToQF2YPJ4qTe4sbhR7L85SGk6jZy0EBqJvc27EDaO9jIbpq7J3GYLxmFGBM9lXztU4lae\n' +
+        'bEByyNJSE44XfDoSSv8ZyQCLSA==\n' +
+        '-----END RSA PRIVATE KEY-----\n',
+      publicDER: <Buffer 30 82 01 22 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 00 03 82 01 0f 00 30 82 01 0a 02 82 01 01 00 f1 18 bc fe c5 79 17 0a 63 25 b2 ac d3 88 18 ce 7e ... 262 more bytes>,
+      privateDER: <Buffer 30 82 04 bc 02 01 00 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 00 04 82 04 a6 30 82 04 a2 02 01 00 02 82 01 01 00 f1 18 bc fe c5 79 17 0a 63 25 b2 ac ... 1185 more bytes>,
+      signature: <Buffer 67 55 6a bd 32 3a fe 74 15 a9 bb 24 67 21 3a 19 4b c7 dc 2c 06 c7 20 5f 29 01 aa 19 66 10 db 81 2a fc 90 d7 2d 4b f4 09 2e 54 6b 42 40 10 16 9d 0f ad ... 462 more bytes>,
+      signatureV2: <Buffer 3f e2 7e 53 5c e9 63 b0 80 c2 9e 33 c8 f8 9e 8f 6b b6 b7 8b 87 64 c3 37 0a 27 66 42 6e c3 c4 ea 22 29 21 7b c2 4b 70 30 04 c4 e0 ba f5 5d 9a d2 3d b6 ... 462 more bytes>,
+      expiresOn: 2023-10-22T06:59:50.748Z,
+      refreshAfter: 2023-10-21T22:59:50.748Z,
+      public: [PublicKeyObject [KeyObject]],
+      private: [PrivateKeyObject [KeyObject]]
+    }
+  }
+}
+{
+  userXUID: '2535435991380565',
+  userHash: '2869026020099625862',
+  XSTSToken: 'eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.jWhJhZRUeBEs73IUaFrC_rspH3D4coExnRIaDy-kkFdMK4DbhyeCWxfahRZm0WFj0HF20kuqPUg3SI2sOuVcT3vBaE2_1UwDwMPYm-Y9B_SpGwrY97bevBBd5h4tnQirx3YhsqOzal_65MXPLBafnM-P4gpv78R4suzEeWpthpc.emkOAtzlyyKojk1XFhTK_A.OJ-tpDOgCNlsXSxuFYBnLTz9LCB-5A1EJeaFQUzmrr7_B-n4O3DA8yF3qKutGJCoBSU3K5li6ww_R8uU7xwTjbbedlgqrIoUakgkIyQJU6zAFqM9CXvgsXMehGC3sB2vNiJ19HcMSTMTUNQtrDg7szEXeGTg6XX7p5aZhO3S66EaIOswKgbHNclrfFIisvjWHnNR6i6DRQtBOpRXDHUYXrm9RkXiPLuV_om-CSFXF8pi7xKrNjCxkekVe_LDk0BzZAAkoEtWJfLu4WeD4IS8hXIOcF4Wz8zKdR8v3iIRMiJc7fz3m7AYo8qsYGrFPCFyh1GIYMoz0pqi9dJbict3Hm6CoUeADXrBOlKB9B_YzFFf-_0_eGt4nFndXZ3YZBEW-1i6PLoqM5KPgfVoiazdalQaNHmkGagmMlelUA3aAlaXpCNGfoi7TYl7ektmZyueaomvlG48ucuJICQxoXx2wQw6yHV7FODh1_LmxMtIc3MCVsjbar1zOb5wzvCbNRYZtTqn1u0_jXsyx4revv5va4s7JLUBRP9vi7GoewK8ayiZl-q5H2DIsiCRKiP4Sd-3Ny2s2ngDF8QaHtEMuYrIRiamoqkjrMvr5FFnGycqB6gf9TcNi92qtZPCh7GPtTBiJIrP1c7kKqoa0pD5H60wxUo7S6iuFMcWjMFXJyr-FD8_cmSPgojI66kFBqpI1ee9dzJrGLp9IhihDyhiTBmK7At7PrGTK0rkEYUcCKMP6GUF6dsRD29xMLwZ9ypy-62NXujFBZs5EFj_k4HGON7yeLra1a88ftyu1k7xZOT2wk95-o1ajJXHRIAN9X7IlzxR08-hSa9VL4fjJ1ENNvV-eGFgdoRO-YJp7pwKzfUrSND4PmHeXUu5Z2UcP-ptfdigAcsz-2fs9StSMff5P5IUI7ZFqi-JkWUxW-GdHbcZTNs0NbZQ_za6z6UFejHwKpk9LeJqAStETmRAMBBbJKDvIhNCPrWmy--XiO8OaEkgvfGlF0z-G335VErPb5wrB9s5KyQjyiEDrcMGCEhTmxrQmsmHvFSyaqfQvBBXOR8sfxOGhOLeTUQ8voO9-DCMDkhwCXrAHkRSyUMBj_TMC9VC-3_hOftUl8pbTWBs3gRTL0TdYpT4t0j1eITfTMwRCPqRYQaf-KSnC2vBvCilLWpZvwmy1BW_3CsGVNXB8VLemj5xXWV0IM2VK2MV9z5uaHAwcv7e1hlFK0UqDDb_knjdRZdNBk_g2yvxVG4q5gG1wpXiuhgPuiqffHxK7gJHn5oZoUjpMx9dFk4p9NW1eEgSTb-35hNfOoj-NlZ_fIK-OYHSiFnAUS2xANLN8bYm70hsLmJ4YiiDWFgppUTyu1Rsai2fh2oQ-bKzyUm-IHMhnGi0ihONFOa9TbXYsa-klcEWzOY_Rh9NXaALL4I_0eLzEPYk0n5pv_bJd9pvO1eCTRDTUeT4rPBoJS-_h5O6v6WO4ee1BCATpORpXobhaRqMZ3ZuB_1zVwEdT_CAE7ZXS3YbFqOBWV3ggF9dAwICSB_5Noldn1Hiz5BoKNAvMOSgdosQb-W74ICQzy0G_JTvXsgyx2NXaKcL0ccG9egpOjzaGsmz6l8w6JPfjPNzttGS8mTItlGwCZnmcNzeLpd4RZg1hAGcjSfgBCl6g1YVyBKyHhugYiuAhJtF8w9yeZTEK2hzazckASDqPWU8eMe_W7vxgskZ4W6rUUW4kUcFU1o_o1Rkx-vXetDnxsE9coB_9HLvcPjO_Wdl1JRek9R3Iw4a3oUHZc0Tl88sT7OpZL78TWU5ZrSpjpiXfiMJKoHbVTCdowiYLhDG4Pk2OPPcmMXdd_DXZiX21ZgAQHuHWrE3jEebBt-TPlbCNpNZuY9H5bQ86qAgD9X-TWKlnLrGjO1-p3x7EpGLEr_Qcftk7sBhYVJCGQoO5s3QvNzBAii-YOjTq2I6VHWZ5XP5Jfy6MxgBt4PXMMk_UcZtt4lz7CkbiSfWo7cgE-2cb0Ef-yE5a0fQNParz-DQTjjpiSPpy8hatiihxuJYVocgxnwfH9zV.27kxKediq14-EZvisPNmg1aJNuQ5H4Cqb3byVmssarE',
+  expiresOn: '2023-10-21T00:52:40.7308437Z'
+}

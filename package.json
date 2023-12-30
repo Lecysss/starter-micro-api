@@ -1,13 +1,32 @@
 {
-  "name": "starter-micro-api",
+  "name": "your-app-name",
   "version": "1.0.0",
-  "description": "Cyclic.sh micro api starter",
-  "main": "index.js",
+  "description": "Your application description",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:server": "node server.js ",
+    "start:bot": "node bot.js",
+    "start:both": "concurrently \"npm run start:server\" \"npm run start:bot\""
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "define-data-property": "^1.1.1",
+    "discord.js": "^13.16.0",
+    "express": "^4.18.2",
+    "hookcord": "^2.0.2",
+    "minecraft-auth": "^2.0.1",
+    "minecraft-protocol": "^1.41.2",
+    "mineflayer": "^4.8.1",
+    "mineflayer-pathfinder": "^2.4.2",
+    "mojang-auth": "^1.0.1",
+    "mojangjs": "^2.0.3",
+    "open": "^9.1.0",
+    "request": "^2.88.2",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.2"
+  },
+    "engines": {
+    "node": ">=16.9"
   }
 }
